@@ -1,8 +1,8 @@
 # clue/graph-phake
 
-Graph visualization for your `Phakefile`s, to show it a dependency graph.
+Graph visualization for your `Phakefile` ([jaz303/phake](https://github.com/jaz303/phake)), to show it a dependency graph.
 
-![example Phakefile dependency graph](http://www.lueck.tv/graph-phake/graph-phake.svg)
+![example Phakefile dependency graph](http://www.lueck.tv/graph-phake/graph-phake.png)
 
 ## Usage
 
