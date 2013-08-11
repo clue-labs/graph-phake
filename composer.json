@@ -9,5 +9,6 @@
             "type": "vcs",
             "url": "https://github.com/clue/phake"
         }
-    ]
+    ],
+    "bin": ["graph-phake.php"]
 }
